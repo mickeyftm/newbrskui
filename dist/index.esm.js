@@ -2212,12 +2212,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/polyswanfinance"
+        href: "https://t.me/PolygonBerserk"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/PolySwanFinance",
+        href: "https://twitter.com/FinanceBerserk",
     },
 ];
 var MENU_HEIGHT = 64;
