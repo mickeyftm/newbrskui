@@ -2225,7 +2225,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/PolygonBerserk"
+        href: "https://t.me/BerserkPolygon"
     },
     {
         label: "Twitter",
